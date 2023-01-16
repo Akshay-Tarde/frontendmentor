@@ -4,3 +4,6 @@
 [submodule "social-proof-section"]
 	path = social-proof-section
 	url = https://github.com/Akshay-Tarde/social-proof-section.git
+[submodule "testimonials-grid-section"]
+	path = testimonials-grid-section
+	url = https://github.com/Akshay-Tarde/testimonials-grid-section.git
