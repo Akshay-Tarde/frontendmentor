@@ -7,3 +7,6 @@
 [submodule "testimonials-grid-section"]
 	path = testimonials-grid-section
 	url = https://github.com/Akshay-Tarde/testimonials-grid-section.git
+[submodule "fylo-data-storage-component"]
+	path = fylo-data-storage-component
+	url = https://github.com/Akshay-Tarde/fylo-data-storage-component.git
