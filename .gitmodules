@@ -10,3 +10,6 @@
 [submodule "fylo-data-storage-component"]
 	path = fylo-data-storage-component
 	url = https://github.com/Akshay-Tarde/fylo-data-storage-component.git
+[submodule "huddle-alternating"]
+	path = huddle-alternating
+	url = https://github.com/Akshay-Tarde/huddle-alternating.git
