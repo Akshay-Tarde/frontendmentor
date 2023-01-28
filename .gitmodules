@@ -13,3 +13,6 @@
 [submodule "huddle-alternating"]
 	path = huddle-alternating
 	url = https://github.com/Akshay-Tarde/huddle-alternating.git
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/Akshay-Tarde/interactive-rating-component.git
