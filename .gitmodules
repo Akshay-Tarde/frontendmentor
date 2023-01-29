@@ -16,3 +16,6 @@
 [submodule "interactive-rating-component"]
 	path = interactive-rating-component
 	url = https://github.com/Akshay-Tarde/interactive-rating-component.git
+[submodule "news-homepage"]
+	path = news-homepage
+	url = https://github.com/Akshay-Tarde/news-homepage.git
