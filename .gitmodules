@@ -19,3 +19,6 @@
 [submodule "news-homepage"]
 	path = news-homepage
 	url = https://github.com/Akshay-Tarde/news-homepage.git
+[submodule "launch-countdown-timer"]
+	path = launch-countdown-timer
+	url = https://github.com/Akshay-Tarde/launch-countdown-timer.git
