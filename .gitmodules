@@ -22,3 +22,6 @@
 [submodule "launch-countdown-timer"]
 	path = launch-countdown-timer
 	url = https://github.com/Akshay-Tarde/launch-countdown-timer.git
+[submodule "tip-calculator-app"]
+	path = tip-calculator-app
+	url = https://github.com/Akshay-Tarde/tip-calculator-app.git
