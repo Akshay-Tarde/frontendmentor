@@ -25,3 +25,6 @@
 [submodule "tip-calculator-app"]
 	path = tip-calculator-app
 	url = https://github.com/Akshay-Tarde/tip-calculator-app.git
+[submodule "todo-app"]
+	path = todo-app
+	url = https://github.com/Akshay-Tarde/todo-app.git
