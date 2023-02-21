@@ -28,3 +28,6 @@
 [submodule "todo-app"]
 	path = todo-app
 	url = https://github.com/Akshay-Tarde/todo-app.git
+[submodule "advice-generator"]
+	path = advice-generator
+	url = https://github.com/Akshay-Tarde/advice-generator.git
