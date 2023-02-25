@@ -6,3 +6,6 @@ A directory to track all my frontendmentor projects
 ## fylo data storage component
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-fsvC0xYMsu)
 - Live Site URL: [Netlify URL](https://fylo-data-storage-component-amt.netlify.app/)
+## Huddle landing page with alternating feature blocks
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-gC37_BnXc1)
+- Live Site URL: [Huddle Landing Page with alternating feature blocks](https://huddle-landing-alternative.netlify.app/)
