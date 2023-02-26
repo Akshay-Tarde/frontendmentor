@@ -9,3 +9,6 @@ A directory to track all my frontendmentor projects
 ## Huddle landing page with alternating feature blocks
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-gC37_BnXc1)
 - Live Site URL: [Huddle Landing Page with alternating feature blocks](https://huddle-landing-alternative.netlify.app/)
+## Interactive rating component
+- Solution URL: [You can see my solution here](https://www.frontendmentor.io/solutions/interactive-rating-component-T1WlEkzZnp)
+- Live Site URL: [Try out the live site here](https://interactive-rating-component-amt.netlify.app/)
