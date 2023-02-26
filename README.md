@@ -12,3 +12,6 @@ A directory to track all my frontendmentor projects
 ## Interactive rating component
 - Solution URL: [You can see my solution here](https://www.frontendmentor.io/solutions/interactive-rating-component-T1WlEkzZnp)
 - Live Site URL: [Try out the live site here](https://interactive-rating-component-amt.netlify.app/)
+## Launch Countdown Timer
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/launch-countdown-timer-responsive-kbGVDNYhs3)
+- Live Site URL: [Try out the site](https://launch-countdown-timer-amt.netlify.app/)
