@@ -15,3 +15,6 @@ A directory to track all my frontendmentor projects
 ## Launch Countdown Timer
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/launch-countdown-timer-responsive-kbGVDNYhs3)
 - Live Site URL: [Try out the site](https://launch-countdown-timer-amt.netlify.app/)
+## News Homepage
+- Solution URL: [See the Frontend Mentor solution](https://www.frontendmentor.io/solutions/responsive-news-homepage-SI4EqbOAzj)
+- Live Site URL: [Try the live site](https://news-homepage-amt.netlify.app/)
