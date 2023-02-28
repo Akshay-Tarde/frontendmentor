@@ -21,3 +21,6 @@ A directory to track all my frontendmentor projects
 ## Social Proof Section
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-K7_63ojNUC)
 - Live Site URL: [Live Site URL](https://social-proof-section-amt.netlify.app/)
+## Testimonials Grid Section
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-F6ELuamA6S)
+- Live Site URL: [Netlify URL](https://testimonials-grid-section-amt.netlify.app/)
