@@ -24,4 +24,5 @@ A directory to track all my frontendmentor projects
 ## Testimonials Grid Section
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-F6ELuamA6S)
 - Live Site URL: [Netlify URL](https://testimonials-grid-section-amt.netlify.app/)
-## Todo 
+## Todo App
+## Tip Calculator App
