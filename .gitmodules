@@ -31,3 +31,6 @@
 [submodule "advice-generator"]
 	path = advice-generator
 	url = https://github.com/Akshay-Tarde/advice-generator.git
+[submodule "intro-component-with-signup-form"]
+	path = intro-component-with-signup-form
+	url = https://github.com/Akshay-Tarde/intro-component-with-signup-form.git
