@@ -34,3 +34,6 @@
 [submodule "intro-component-with-signup-form"]
 	path = intro-component-with-signup-form
 	url = https://github.com/Akshay-Tarde/intro-component-with-signup-form.git
+[submodule "js-article-preview-component"]
+	path = js-article-preview-component
+	url = https://github.com/Akshay-Tarde/js-article-preview-component.git
